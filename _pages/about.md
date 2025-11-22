@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a second-year Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I received my Bachelor’s Degree of Computer Science and Technology in Shanghai Jiao Tong University in 2024.
+Hi! I am currently a second-year Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I received my Bachelor’s Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2024.
 
-My research interests include (multimodal) large language models, LLM-based Agents, Data Mining.
+My research interests include (Multimodal) Large Language Models, LLM-based Agents, and Data Mining.
 
 Recent News
 =====
@@ -31,7 +31,7 @@ Publications
 - [Dense Representation Learning and Retrieval for Tabular Data Prediction](https://dl.acm.org/doi/10.1145/3580305.3599305) *(**KDD 2023**)*<br>Lei Zheng, **Ning Li**, Xianyu Chen, Quan Gan, Weinan Zhang
 
 - [4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on RDBs](https://proceedings.neurips.cc/paper_files/paper/2024/file/2fd67447702c8eff5683dda507a1b0a2-Paper-Datasets_and_Benchmarks_Track.pdf) *(**NeurIPS 2024**)*<br>Minjie Wang\*, Quan Gan\*, David Wipf, Zhenkun Cai, **Ning Li**, Jianheng Tang,
-Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, Yanbo Wang, Jiahang Li8,Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang,Christos Faloutsos, Zheng Zhang
+Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, Yanbo Wang, Jiahang Li8, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang
 
 - ......
 
