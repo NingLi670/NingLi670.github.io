@@ -7,33 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a second-year Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. [Weinan Zhang](http://www.wnzhang.net) and Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I received my Bachelor’s Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2024.
+Hi! I am currently a second-year Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. [Weinan Zhang](http://www.wnzhang.net), Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), and Prof. [Weiwen Liu](https://wwliu555.github.io). I received my Bachelor’s Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2024.
 
-My research interests include (Multimodal) Large Language Models, LLM-based Agents, and Data Mining.
+My research interests include Large Language Models, LLM-based Agents, and LLM Post-Training.
 
 Recent News
 =====
-**[2025.10.22]**: Our technical report about OS agent [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386) is on arXiv!
 
-**[2025.9.19]**: Our paper [MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation](https://arxiv.org/abs/2507.16853) is accepted by NeurIPS 2025!
+**[2026.8.3]**: [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) is released! Happy to have contributed to its **hybrid agent capabilities**.
 
-Publications
+**[2026.8.3]**: [Qwen-CUA](https://arxiv.org/abs/2608.02352) is released! Proud to have contributed as a **core contributor**.
+
+**[2026.6.14]**: Our paper [BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation](https://arxiv.org/abs/2606.15893) is now available on arXiv!
+
+**[2025.10.22]**: Our technical report about OS agent [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386) is now available on arXiv!
+
+**[2025.9.19]**: Our paper [MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation](https://arxiv.org/abs/2507.16853) has been accepted to **NeurIPS 2025**!
+
+Selected Publications
 =====
 
-- [MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation](https://arxiv.org/abs/2507.16853) *(**NeurIPS 2025**)*<br>**Ning Li**\*, Xiangmou Qu\*, Jiamu Zhou\*, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lou, Qiuying Peng, Jun Wang, Weinan Zhang
+- [Qwen-CUA: Native Computer Use for (almost) Everything](https://arxiv.org/abs/2608.02352) *(**Technical Report**)*<br>**Core Contributor**
+
+- [BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation](https://arxiv.org/abs/2606.15893) *(Preprint)*<br>**Ning Li**\*, Zixuan Guo\*, Yan Xu, Wenbo Fei, Yifan Niu, Chang Luo, Yasheng Wang, Weiwen Liu, Yong Yu, Weinan Zhang
+
+- [MobileUse: A Hierarchical Reflection-Driven GUI Agent for Autonomous Mobile Operation](https://neurips.cc/virtual/2025/loc/san-diego/poster/118642) *(**NeurIPS 2025**)*<br>**Ning Li**\*, Xiangmou Qu\*, Jiamu Zhou\*, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lou, Qiuying Peng, Jun Wang, Weinan Zhang
 
 - [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386) *(**Technical Report**)*<br>**Ning Li**\*, Qiqiang Lin\*, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou, Jun Wang, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang
 
-- [Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases](https://arxiv.org/abs/2508.08327) *(Preprint)*<br>**Ning Li**, Kounianhua Du, Han Zhang, Quan Gan, Minjie Wang, David Wipf, Weinan Zhang
+- [Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases](https://arxiv.org/abs/2508.08327) *(**ECML-PKDD**)*<br>**Ning Li**, Kounianhua Du, Han Zhang, Quan Gan, Minjie Wang, David Wipf, Weinan Zhang
 
-- [ELF-Gym: Evaluating Large Language Models Generated Features for Tabular Prediction](https://arxiv.org/abs/2410.12865?) *(**CIKM 2024**)*<br>Yanlin Zhang, **Ning Li**, Quan Gan, Weinan Zhang, David Wipf, Minjie Wang
+- [ELF-Gym: Evaluating Large Language Models Generated Features for Tabular Prediction](https://arxiv.org/abs/2410.12865) *(**CIKM 2024**)*<br>Yanlin Zhang, **Ning Li**, Quan Gan, Weinan Zhang, David Wipf, Minjie Wang
 
 - [Dense Representation Learning and Retrieval for Tabular Data Prediction](https://dl.acm.org/doi/10.1145/3580305.3599305) *(**KDD 2023**)*<br>Lei Zheng, **Ning Li**, Xianyu Chen, Quan Gan, Weinan Zhang
 
 - [4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on RDBs](https://proceedings.neurips.cc/paper_files/paper/2024/file/2fd67447702c8eff5683dda507a1b0a2-Paper-Datasets_and_Benchmarks_Track.pdf) *(**NeurIPS 2024**)*<br>Minjie Wang\*, Quan Gan\*, David Wipf, Zhenkun Cai, **Ning Li**, Jianheng Tang,
 Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, Yanbo Wang, Jiahang Li8, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang
 
-- ......
+- See more in [Google Scholar](https://scholar.google.com/citations?user=CMQKRwIAAAAJ)
 
 <br/>
 <br/>
