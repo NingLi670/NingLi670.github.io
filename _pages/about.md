@@ -35,7 +35,7 @@ Selected Publications
 
 - [ColorAgent: Building A Robust, Personalized, and Interactive OS Agent](https://arxiv.org/abs/2510.19386) *(**Technical Report**)*<br>**Ning Li**\*, Qiqiang Lin\*, Zheng Wu, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou, Jun Wang, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang
 
-- [Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases](https://arxiv.org/abs/2508.08327) *(**ECML-PKDD**)*<br>**Ning Li**, Kounianhua Du, Han Zhang, Quan Gan, Minjie Wang, David Wipf, Weinan Zhang
+- [Synthesize, Retrieve, and Propagate: A Unified Predictive Modeling Framework for Relational Databases](https://arxiv.org/abs/2508.08327) *(**ECML-PKDD 2026**)*<br>**Ning Li**, Kounianhua Du, Han Zhang, Quan Gan, Minjie Wang, David Wipf, Weinan Zhang
 
 - [ELF-Gym: Evaluating Large Language Models Generated Features for Tabular Prediction](https://arxiv.org/abs/2410.12865) *(**CIKM 2024**)*<br>Yanlin Zhang, **Ning Li**, Quan Gan, Weinan Zhang, David Wipf, Minjie Wang
 
